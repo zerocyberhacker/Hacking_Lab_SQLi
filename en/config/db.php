@@ -5,7 +5,7 @@
     server with default setting (user 'root' with no password) */
     $host="localhost";
     $user="root";
-    $password="eT586249!";
+    $password="!Q2w3e4r";
     $db='home_engine';
     $conn=mysqli_connect($host,$user,$password,$db);
  
