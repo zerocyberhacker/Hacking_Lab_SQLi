@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+Assumes that no one will use an inspector 
+or any other means to view the source code
+on browser. - zerocyberhacker@gmail.com
